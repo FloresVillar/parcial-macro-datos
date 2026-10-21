@@ -670,7 +670,7 @@ hdfs dfs -cat /output/part-r-00000       # muestra el conteo de palabras
 
 **Resultado (2026-10-18):** con la frase `...curso de ANALISI DE MACRODATOS ` el job leyó 690000 bytes y `part-r-00000` dio `de` 20000 y las demás palabras (incluidas `DE`, `ANALISI`, `MACRODATOS`) 10000 cada una; WordCount distingue mayúsculas (captura [`PARCIAL/imagenes/9_MAPREDUCE.png`](imagenes/9_MAPREDUCE.png)).
 
-## Desarrollo del Parcial
+# DESARROLLO DEL EXAMEN PARCIAL
 
 ### Tanto en el informe como en la presentación
 
