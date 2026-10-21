@@ -5,24 +5,23 @@
 
 ### EXAMEN PARCIAL
 
-**Periodo académico: 2026-2**
+**2026-2**
 
 <img width="1200" height="1509" alt="UNI-logo" src="https://github.com/user-attachments/assets/0c31891b-7e30-43d9-9756-57a0af3c0464" />
 
 
 ---
 
-###  Integrantes
+#  Integrantes
 
 - Esaú Flores Villar
 - José Manuel Montalvo Espinoza
 
 ---
-
-**Curso:** Análisis en Macrodatos
-
 </div>
 
+
+## PREPARACIÓN DEL ENTORNO
 
 # Guía: clúster Hadoop 3.3.6 en VirtualBox (1 master + 2 workers)
 
